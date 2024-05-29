@@ -43,7 +43,7 @@ let handler = async (m, {
         }
         await m.reply("\n\n" + res.ParsedResults[0].ParsedText)
     } catch (e) {
-        throw 'حذثت مشكلة راسل صاحب البوت'
+        throw 'حدثت مشكلة '
     }
 }
 handler.help = ['ocr']
