@@ -20,13 +20,13 @@ global.owner = [
 global.suittag = ['212717457920'];
 global.prems = ['212717457920'];
 
-global.packname = 'bobiza bot';
-global.author = 'bobiza';
-global.wm = 'bobiza';
+global.packname = 'ملصقات احترافية';
+global.author ='Hedshot1251 انتاج واخراج ';
+global.wm = 'Hedshot1251';
 global.titulowm = 'bobiza';
 global.titulowm2 = `bobiza`
 global.igfg = 'bobiza';
-global.wait = '*|🏃| loading...*\n*نحاول تلبية طلبكم لا تستعجلوا* ♥\ninstagram.com/noureddine_ouafy';
+global.wait = '*|🏃| loading...*\n*نحاول تلبية طلبكم لا تستعجلوا*';
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
 global.imagen3 = fs.readFileSync('./src/Pre Bot Publi.png');
